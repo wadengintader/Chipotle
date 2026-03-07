@@ -9,28 +9,28 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex items-center justify-center gap-1.5 mb-2">
           <a 
-            href="https://www.facebook.com/aritzia/" 
+            href="https://www.facebook.com/chipotle/" 
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#000000] hover:bg-[#000000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#451400] hover:bg-[#451400] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="Facebook"
           >
             <Facebook className="w-3.5 h-3.5 fill-current" />
           </a>
           <a 
-            href="https://www.instagram.com/aritzia/"
+            href="https://www.instagram.com/chipotle/?hl=en"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#000000] hover:bg-[#000000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#451400] hover:bg-[#451400] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="Instagram"
           >
             <Instagram className="w-3.5 h-3.5" />
           </a>
           <a 
-            href="https://www.linkedin.com/company/aritzia" 
+            href="https://www.linkedin.com/company/chipotle-mexican-grill" 
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#000000] hover:bg-[#000000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#451400] hover:bg-[#451400] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="LinkedIn"
           >
             <Linkedin className="w-3.5 h-3.5 fill-current" />
